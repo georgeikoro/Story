@@ -63,6 +63,11 @@ section {
       font-size: 14px;
       border-radius: 4px;
     }
+    button:hover {
+      background-color: hsl(75, 94%, 57%);
+      color: hsl(0, 0%, 8%);
+      cursor: pointer;
+    }
 
     .title {
       display: flex;
